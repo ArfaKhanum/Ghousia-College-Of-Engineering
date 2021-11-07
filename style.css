@@ -1,0 +1,83 @@
+.carousel-caption h1{
+    color: red;
+    font-weight: bolder;
+    font-style: unset;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+}
+.carousel-caption h4{
+    color: rgb(13, 201, 75);
+    font-family: serif;
+    font-weight: bold;
+}
+.logo{
+    color: white;
+}
+
+.row{
+    text-align: center;
+    background-color: rgb(129, 202, 245);
+}
+.col-lg-12{
+    font-weight: bolder;
+    color: brown;
+    font-family: cursive;
+    text-align: center;
+}
+
+.col-lg-6{
+    text-align: center;
+}
+
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+  .navbar a:hover {
+    background: #ddd;
+    color: rgb(98, 100, 231);
+  }
+
+  .content h1{
+      text-align: center;
+      color: hotpink;
+      font-family: cursive;
+  }
+  .content p{
+      text-align: center;
+     font-weight: 500;
+      word-spacing: 8px;
+  }
+  
+  .page-content{
+      text-align: center;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-size: 100px;
+    }
+    .profile{
+        text-align: center;
+        background-color: peachpuff;
+    }
+    .profile h1{
+        font-family: cursive;
+        color: indigo;
+    }
+    .profile p{
+     
+        font-size: 20px;
+    }
